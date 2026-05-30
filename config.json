@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authuarse",
+        "uuid": 1438153,
+        "checksum": "jq6a29"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
